@@ -2,9 +2,9 @@
 
 Capstone project of Strive School. 
 
-** Intercoach is an AI tool helps helps candidates, HR specialists and managers. **
+**Intercoach is an AI tool helps helps candidates, HR specialists and managers.**
 
-##About
+## About
 
 The most struggling thing for everyone in a job search is passing the interviews. 
 Some people talk too fast, or think too long, or give too many details. 
