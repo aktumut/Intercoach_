@@ -19,4 +19,4 @@ Intercoach helps candidates to prepare for job interview. It gives typical inter
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=K-OEIRNH8O0
 " target="_blank"><img src="http://img.youtube.com/vi/K-OEIRNH8O0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" height: "100%" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
