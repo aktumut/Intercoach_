@@ -13,10 +13,17 @@ Intercoach helps candidates to prepare for job interview. It gives typical inter
 ![project](https://raw.githubusercontent.com/aktumut/Intercoach_/main/images/project.PNG)
 
 
-## Presantation
+## Video Presantation
 
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=K-OEIRNH8O0
 " target="_blank"><img src="http://img.youtube.com/vi/K-OEIRNH8O0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
+
+## References
+
+For datasets;
+
+* Facial expressions <a href="https://datarepository.wolframcloud.com/resources/FER-2013/">dataset </a> by Pierre-Luc Carrier and Aaron Courville
+
