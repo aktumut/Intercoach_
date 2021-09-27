@@ -25,5 +25,6 @@ alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
 
 For datasets;
 
-* Facial expressions <a href="https://datarepository.wolframcloud.com/resources/FER-2013/">dataset </a> by Pierre-Luc Carrier and Aaron Courville
+* Facial expressions <a href="https://datarepository.wolframcloud.com/resources/FER-2013/">dataset</a> by Pierre-Luc Carrier and Aaron Courville
+* <a href="https://www.kaggle.com/kazanova/sentiment140">Twitter</a> and <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB</a> dataset for text sentimental analysis 
 
