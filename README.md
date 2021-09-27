@@ -21,10 +21,18 @@ Intercoach helps candidates to prepare for job interview. It gives typical inter
 " target="_blank"><img src="http://img.youtube.com/vi/K-OEIRNH8O0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
 
-## References
+## References and Datasets
 
-For datasets;
+Datasets;
 
 * Facial expressions <a href="https://datarepository.wolframcloud.com/resources/FER-2013/">dataset</a> by Pierre-Luc Carrier and Aaron Courville.
 * <a href="https://www.kaggle.com/kazanova/sentiment140">Twitter</a> and <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">IMDB</a> dataset for text sentimental analysis.
-* The Ryerson Audio-Visual Database of Emotional Speech and Song <a href="https://zenodo.org/record/1188976#.YVGtOrj7SUk">(RAVDESS)</a>dataset for voice sentimental  analysis.
+* The Ryerson Audio-Visual Database of Emotional Speech and Song <a href="https://zenodo.org/record/1188976#.YVGtOrj7SUk">(RAVDESS)</a> dataset for voice sentimental  analysis.
+
+References;
+
+* For speed of speech - <a href="https://virtualspeech.com/blog/average-speaking-rate-words-per-minute">data</a> of US National Center for Voice and Speech 
+* For duration of an answer - <a href="https://interviewgenie.com/blog-1/2017/6/20/how-long-should-your-interview-answers-be">data</a> of interview coach Jennifer Scupi 
+* For pauses in speech - <a href="https://www.quantified.ai/blog/the-power-of-pause/">data</a> of Marseille University 
+* For hesitation I used my own assumptions based on pauses data
+
