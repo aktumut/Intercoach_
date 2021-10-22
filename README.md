@@ -13,7 +13,7 @@ Intercoach helps candidates to prepare for the job interviews. It gives typical 
 ![project](https://raw.githubusercontent.com/aktumut/Intercoach_/main/images/project.PNG)
 
 
-## Video Presantation
+## Video Presentation
 
 
 
